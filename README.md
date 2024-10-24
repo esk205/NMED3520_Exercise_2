@@ -1,1 +1,1 @@
-# NMED3520_Exercise_2
+# NMED_3520_Assignment_2
